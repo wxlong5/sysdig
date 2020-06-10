@@ -52,6 +52,7 @@ set(SINSP_SOURCES
 	cursesspectro.cpp
 	cursesui.cpp
 	event.cpp
+	eventChoose.cpp
 	eventformatter.cpp
 	dns_manager.cpp
 	dumper.cpp
